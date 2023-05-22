@@ -11,6 +11,34 @@
 		18A1EA012A1B5685004C77C5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA002A1B5685004C77C5 /* ContentView.swift */; };
 		18A1EA032A1B5686004C77C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A1EA022A1B5686004C77C5 /* Assets.xcassets */; };
 		18A1EA062A1B5686004C77C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A1EA052A1B5686004C77C5 /* Preview Assets.xcassets */; };
+		18A1EA0F2A1B56DB004C77C5 /* generate.sh in Resources */ = {isa = PBXBuildFile; fileRef = 18A1EA0D2A1B56DB004C77C5 /* generate.sh */; };
+		18A1EA102A1B56DB004C77C5 /* NobelMedia-NobelMasterData-2.0-resolved.json in Resources */ = {isa = PBXBuildFile; fileRef = 18A1EA0E2A1B56DB004C77C5 /* NobelMedia-NobelMasterData-2.0-resolved.json */; };
+		18A1EA1C2A1B577E004C77C5 /* Configurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA192A1B577E004C77C5 /* Configurator.swift */; };
+		18A1EA1D2A1B577E004C77C5 /* ServiceLocator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA1A2A1B577E004C77C5 /* ServiceLocator.swift */; };
+		18A1EA1E2A1B577E004C77C5 /* Injected.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA1B2A1B577E004C77C5 /* Injected.swift */; };
+		18A1EA232A1B5794004C77C5 /* OthersNobelPrizesInYearView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA1F2A1B5794004C77C5 /* OthersNobelPrizesInYearView.swift */; };
+		18A1EA242A1B5794004C77C5 /* NobelPrizeViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA202A1B5794004C77C5 /* NobelPrizeViewModel.swift */; };
+		18A1EA252A1B5794004C77C5 /* NobelPrizeDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA212A1B5794004C77C5 /* NobelPrizeDataSource.swift */; };
+		18A1EA262A1B5794004C77C5 /* NobelPrizeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA222A1B5794004C77C5 /* NobelPrizeView.swift */; };
+		18A1EA332A1B582D004C77C5 /* Screen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA302A1B582D004C77C5 /* Screen.swift */; };
+		18A1EA342A1B582D004C77C5 /* NavigationStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA312A1B582D004C77C5 /* NavigationStack.swift */; };
+		18A1EA352A1B582D004C77C5 /* NavigationType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA322A1B582D004C77C5 /* NavigationType.swift */; };
+		18A1EA372A1B5848004C77C5 /* NavigationAnimationType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA362A1B5848004C77C5 /* NavigationAnimationType.swift */; };
+		18A1EA3A2A1B5862004C77C5 /* NavigationViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA382A1B5862004C77C5 /* NavigationViewModel.swift */; };
+		18A1EA3B2A1B5862004C77C5 /* NavigationCustomView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA392A1B5862004C77C5 /* NavigationCustomView.swift */; };
+		18A1EA3E2A1B5883004C77C5 /* LaureatesViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA3C2A1B5883004C77C5 /* LaureatesViewModel.swift */; };
+		18A1EA502A1B5908004C77C5 /* LauretesService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA4E2A1B5908004C77C5 /* LauretesService.swift */; };
+		18A1EA512A1B5908004C77C5 /* NobelPrizeService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA4F2A1B5908004C77C5 /* NobelPrizeService.swift */; };
+		18A1EA542A1B5919004C77C5 /* ProgressBarModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA522A1B5919004C77C5 /* ProgressBarModifier.swift */; };
+		18A1EA552A1B5919004C77C5 /* RandomAccessCollection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA532A1B5919004C77C5 /* RandomAccessCollection.swift */; };
+		18A1EA5B2A1B5D6E004C77C5 /* ScienceCategoryTypes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA582A1B5D6E004C77C5 /* ScienceCategoryTypes.swift */; };
+		18A1EA5C2A1B5D6E004C77C5 /* LaureateDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA592A1B5D6E004C77C5 /* LaureateDataSource.swift */; };
+		18A1EA5D2A1B5D6E004C77C5 /* LaureateBasicDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA5A2A1B5D6E004C77C5 /* LaureateBasicDataSource.swift */; };
+		18A1EA5F2A1B5D81004C77C5 /* LaureateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA5E2A1B5D81004C77C5 /* LaureateView.swift */; };
+		18A1EA662A1B63EB004C77C5 /* Network in Frameworks */ = {isa = PBXBuildFile; productRef = 18A1EA652A1B63EB004C77C5 /* Network */; };
+		18A1EA752A1BA1C1004C77C5 /* LaureatesListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA742A1BA1C1004C77C5 /* LaureatesListView.swift */; };
+		18A1EA792A1BA209004C77C5 /* SegmentedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA772A1BA209004C77C5 /* SegmentedView.swift */; };
+		18A1EA7A2A1BA209004C77C5 /* SegmentedViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18A1EA782A1BA209004C77C5 /* SegmentedViewModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +47,34 @@
 		18A1EA002A1B5685004C77C5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		18A1EA022A1B5686004C77C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		18A1EA052A1B5686004C77C5 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		18A1EA0D2A1B56DB004C77C5 /* generate.sh */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.script.sh; path = generate.sh; sourceTree = "<group>"; };
+		18A1EA0E2A1B56DB004C77C5 /* NobelMedia-NobelMasterData-2.0-resolved.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "NobelMedia-NobelMasterData-2.0-resolved.json"; sourceTree = "<group>"; };
+		18A1EA192A1B577E004C77C5 /* Configurator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Configurator.swift; sourceTree = "<group>"; };
+		18A1EA1A2A1B577E004C77C5 /* ServiceLocator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ServiceLocator.swift; sourceTree = "<group>"; };
+		18A1EA1B2A1B577E004C77C5 /* Injected.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Injected.swift; sourceTree = "<group>"; };
+		18A1EA1F2A1B5794004C77C5 /* OthersNobelPrizesInYearView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OthersNobelPrizesInYearView.swift; sourceTree = "<group>"; };
+		18A1EA202A1B5794004C77C5 /* NobelPrizeViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NobelPrizeViewModel.swift; sourceTree = "<group>"; };
+		18A1EA212A1B5794004C77C5 /* NobelPrizeDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NobelPrizeDataSource.swift; sourceTree = "<group>"; };
+		18A1EA222A1B5794004C77C5 /* NobelPrizeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NobelPrizeView.swift; sourceTree = "<group>"; };
+		18A1EA302A1B582D004C77C5 /* Screen.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Screen.swift; sourceTree = "<group>"; };
+		18A1EA312A1B582D004C77C5 /* NavigationStack.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationStack.swift; sourceTree = "<group>"; };
+		18A1EA322A1B582D004C77C5 /* NavigationType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationType.swift; sourceTree = "<group>"; };
+		18A1EA362A1B5848004C77C5 /* NavigationAnimationType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationAnimationType.swift; sourceTree = "<group>"; };
+		18A1EA382A1B5862004C77C5 /* NavigationViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationViewModel.swift; sourceTree = "<group>"; };
+		18A1EA392A1B5862004C77C5 /* NavigationCustomView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavigationCustomView.swift; sourceTree = "<group>"; };
+		18A1EA3C2A1B5883004C77C5 /* LaureatesViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaureatesViewModel.swift; sourceTree = "<group>"; };
+		18A1EA4E2A1B5908004C77C5 /* LauretesService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LauretesService.swift; sourceTree = "<group>"; };
+		18A1EA4F2A1B5908004C77C5 /* NobelPrizeService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NobelPrizeService.swift; sourceTree = "<group>"; };
+		18A1EA522A1B5919004C77C5 /* ProgressBarModifier.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ProgressBarModifier.swift; sourceTree = "<group>"; };
+		18A1EA532A1B5919004C77C5 /* RandomAccessCollection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RandomAccessCollection.swift; sourceTree = "<group>"; };
+		18A1EA582A1B5D6E004C77C5 /* ScienceCategoryTypes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScienceCategoryTypes.swift; sourceTree = "<group>"; };
+		18A1EA592A1B5D6E004C77C5 /* LaureateDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaureateDataSource.swift; sourceTree = "<group>"; };
+		18A1EA5A2A1B5D6E004C77C5 /* LaureateBasicDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaureateBasicDataSource.swift; sourceTree = "<group>"; };
+		18A1EA5E2A1B5D81004C77C5 /* LaureateView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaureateView.swift; sourceTree = "<group>"; };
+		18A1EA632A1B5F93004C77C5 /* Network */ = {isa = PBXFileReference; lastKnownFileType = text; path = Network; sourceTree = SOURCE_ROOT; };
+		18A1EA742A1BA1C1004C77C5 /* LaureatesListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaureatesListView.swift; sourceTree = "<group>"; };
+		18A1EA772A1BA209004C77C5 /* SegmentedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegmentedView.swift; sourceTree = "<group>"; };
+		18A1EA782A1BA209004C77C5 /* SegmentedViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SegmentedViewModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -26,6 +82,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A1EA662A1B63EB004C77C5 /* Network in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -35,8 +92,10 @@
 		18A1E9F22A1B5685004C77C5 = {
 			isa = PBXGroup;
 			children = (
+				18A1EA0C2A1B56B4004C77C5 /* generateNetwork */,
 				18A1E9FD2A1B5685004C77C5 /* hwArchitecture */,
 				18A1E9FC2A1B5685004C77C5 /* Products */,
+				18A1EA642A1B63EB004C77C5 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -51,8 +110,13 @@
 		18A1E9FD2A1B5685004C77C5 /* hwArchitecture */ = {
 			isa = PBXGroup;
 			children = (
-				18A1E9FE2A1B5685004C77C5 /* hwArchitectureApp.swift */,
-				18A1EA002A1B5685004C77C5 /* ContentView.swift */,
+				18A1EA632A1B5F93004C77C5 /* Network */,
+				18A1EA132A1B570B004C77C5 /* services */,
+				18A1EA162A1B572B004C77C5 /* nobelPrizes */,
+				18A1EA152A1B5721004C77C5 /* laureate */,
+				18A1EA142A1B571A004C77C5 /* laureates */,
+				18A1EA172A1B573C004C77C5 /* extensions */,
+				18A1EA112A1B56ED004C77C5 /* app */,
 				18A1EA022A1B5686004C77C5 /* Assets.xcassets */,
 				18A1EA042A1B5686004C77C5 /* Preview Content */,
 			);
@@ -65,6 +129,139 @@
 				18A1EA052A1B5686004C77C5 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		18A1EA0C2A1B56B4004C77C5 /* generateNetwork */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA0D2A1B56DB004C77C5 /* generate.sh */,
+				18A1EA0E2A1B56DB004C77C5 /* NobelMedia-NobelMasterData-2.0-resolved.json */,
+			);
+			path = generateNetwork;
+			sourceTree = "<group>";
+		};
+		18A1EA112A1B56ED004C77C5 /* app */ = {
+			isa = PBXGroup;
+			children = (
+				18A1E9FE2A1B5685004C77C5 /* hwArchitectureApp.swift */,
+				18A1EA002A1B5685004C77C5 /* ContentView.swift */,
+			);
+			path = app;
+			sourceTree = "<group>";
+		};
+		18A1EA122A1B56FD004C77C5 /* serviceLocator */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA192A1B577E004C77C5 /* Configurator.swift */,
+				18A1EA1B2A1B577E004C77C5 /* Injected.swift */,
+				18A1EA1A2A1B577E004C77C5 /* ServiceLocator.swift */,
+			);
+			path = serviceLocator;
+			sourceTree = "<group>";
+		};
+		18A1EA132A1B570B004C77C5 /* services */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA122A1B56FD004C77C5 /* serviceLocator */,
+				18A1EA4E2A1B5908004C77C5 /* LauretesService.swift */,
+				18A1EA4F2A1B5908004C77C5 /* NobelPrizeService.swift */,
+			);
+			path = services;
+			sourceTree = "<group>";
+		};
+		18A1EA142A1B571A004C77C5 /* laureates */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA762A1BA1EA004C77C5 /* segmentedScreen */,
+				18A1EA742A1BA1C1004C77C5 /* LaureatesListView.swift */,
+				18A1EA3C2A1B5883004C77C5 /* LaureatesViewModel.swift */,
+			);
+			path = laureates;
+			sourceTree = "<group>";
+		};
+		18A1EA152A1B5721004C77C5 /* laureate */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA5E2A1B5D81004C77C5 /* LaureateView.swift */,
+				18A1EA2D2A1B57C9004C77C5 /* customNavigationStack */,
+				18A1EA572A1B5D53004C77C5 /* dataSource */,
+			);
+			path = laureate;
+			sourceTree = "<group>";
+		};
+		18A1EA162A1B572B004C77C5 /* nobelPrizes */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA212A1B5794004C77C5 /* NobelPrizeDataSource.swift */,
+				18A1EA222A1B5794004C77C5 /* NobelPrizeView.swift */,
+				18A1EA202A1B5794004C77C5 /* NobelPrizeViewModel.swift */,
+				18A1EA1F2A1B5794004C77C5 /* OthersNobelPrizesInYearView.swift */,
+			);
+			path = nobelPrizes;
+			sourceTree = "<group>";
+		};
+		18A1EA172A1B573C004C77C5 /* extensions */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA522A1B5919004C77C5 /* ProgressBarModifier.swift */,
+				18A1EA532A1B5919004C77C5 /* RandomAccessCollection.swift */,
+			);
+			path = extensions;
+			sourceTree = "<group>";
+		};
+		18A1EA2D2A1B57C9004C77C5 /* customNavigationStack */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA392A1B5862004C77C5 /* NavigationCustomView.swift */,
+				18A1EA382A1B5862004C77C5 /* NavigationViewModel.swift */,
+				18A1EA2E2A1B57EB004C77C5 /* skeleton */,
+				18A1EA2F2A1B57F2004C77C5 /* animation */,
+			);
+			path = customNavigationStack;
+			sourceTree = "<group>";
+		};
+		18A1EA2E2A1B57EB004C77C5 /* skeleton */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA312A1B582D004C77C5 /* NavigationStack.swift */,
+				18A1EA322A1B582D004C77C5 /* NavigationType.swift */,
+				18A1EA302A1B582D004C77C5 /* Screen.swift */,
+			);
+			path = skeleton;
+			sourceTree = "<group>";
+		};
+		18A1EA2F2A1B57F2004C77C5 /* animation */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA362A1B5848004C77C5 /* NavigationAnimationType.swift */,
+			);
+			path = animation;
+			sourceTree = "<group>";
+		};
+		18A1EA572A1B5D53004C77C5 /* dataSource */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA5A2A1B5D6E004C77C5 /* LaureateBasicDataSource.swift */,
+				18A1EA592A1B5D6E004C77C5 /* LaureateDataSource.swift */,
+				18A1EA582A1B5D6E004C77C5 /* ScienceCategoryTypes.swift */,
+			);
+			path = dataSource;
+			sourceTree = "<group>";
+		};
+		18A1EA642A1B63EB004C77C5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		18A1EA762A1BA1EA004C77C5 /* segmentedScreen */ = {
+			isa = PBXGroup;
+			children = (
+				18A1EA772A1BA209004C77C5 /* SegmentedView.swift */,
+				18A1EA782A1BA209004C77C5 /* SegmentedViewModel.swift */,
+			);
+			path = segmentedScreen;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -83,6 +280,9 @@
 			dependencies = (
 			);
 			name = hwArchitecture;
+			packageProductDependencies = (
+				18A1EA652A1B63EB004C77C5 /* Network */,
+			);
 			productName = hwArchitecture;
 			productReference = 18A1E9FB2A1B5685004C77C5 /* hwArchitecture.app */;
 			productType = "com.apple.product-type.application";
@@ -126,7 +326,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				18A1EA062A1B5686004C77C5 /* Preview Assets.xcassets in Resources */,
+				18A1EA102A1B56DB004C77C5 /* NobelMedia-NobelMasterData-2.0-resolved.json in Resources */,
 				18A1EA032A1B5686004C77C5 /* Assets.xcassets in Resources */,
+				18A1EA0F2A1B56DB004C77C5 /* generate.sh in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,7 +339,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				18A1EA5F2A1B5D81004C77C5 /* LaureateView.swift in Sources */,
+				18A1EA5D2A1B5D6E004C77C5 /* LaureateBasicDataSource.swift in Sources */,
+				18A1EA342A1B582D004C77C5 /* NavigationStack.swift in Sources */,
+				18A1EA1E2A1B577E004C77C5 /* Injected.swift in Sources */,
+				18A1EA262A1B5794004C77C5 /* NobelPrizeView.swift in Sources */,
+				18A1EA1D2A1B577E004C77C5 /* ServiceLocator.swift in Sources */,
+				18A1EA5C2A1B5D6E004C77C5 /* LaureateDataSource.swift in Sources */,
+				18A1EA252A1B5794004C77C5 /* NobelPrizeDataSource.swift in Sources */,
+				18A1EA502A1B5908004C77C5 /* LauretesService.swift in Sources */,
+				18A1EA7A2A1BA209004C77C5 /* SegmentedViewModel.swift in Sources */,
+				18A1EA3E2A1B5883004C77C5 /* LaureatesViewModel.swift in Sources */,
+				18A1EA3B2A1B5862004C77C5 /* NavigationCustomView.swift in Sources */,
+				18A1EA552A1B5919004C77C5 /* RandomAccessCollection.swift in Sources */,
+				18A1EA5B2A1B5D6E004C77C5 /* ScienceCategoryTypes.swift in Sources */,
+				18A1EA352A1B582D004C77C5 /* NavigationType.swift in Sources */,
+				18A1EA372A1B5848004C77C5 /* NavigationAnimationType.swift in Sources */,
 				18A1EA012A1B5685004C77C5 /* ContentView.swift in Sources */,
+				18A1EA752A1BA1C1004C77C5 /* LaureatesListView.swift in Sources */,
+				18A1EA792A1BA209004C77C5 /* SegmentedView.swift in Sources */,
+				18A1EA332A1B582D004C77C5 /* Screen.swift in Sources */,
+				18A1EA232A1B5794004C77C5 /* OthersNobelPrizesInYearView.swift in Sources */,
+				18A1EA542A1B5919004C77C5 /* ProgressBarModifier.swift in Sources */,
+				18A1EA3A2A1B5862004C77C5 /* NavigationViewModel.swift in Sources */,
+				18A1EA1C2A1B577E004C77C5 /* Configurator.swift in Sources */,
+				18A1EA242A1B5794004C77C5 /* NobelPrizeViewModel.swift in Sources */,
+				18A1EA512A1B5908004C77C5 /* NobelPrizeService.swift in Sources */,
 				18A1E9FF2A1B5685004C77C5 /* hwArchitectureApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -339,6 +566,13 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		18A1EA652A1B63EB004C77C5 /* Network */ = {
+			isa = XCSwiftPackageProductDependency;
+			productName = Network;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 18A1E9F32A1B5685004C77C5 /* Project object */;
 }
